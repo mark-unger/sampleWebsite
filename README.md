@@ -1,1 +1,1 @@
-#This is a sample website to ractice my skills.
+#This is a sample website to practice my skills.
